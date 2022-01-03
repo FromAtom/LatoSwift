@@ -1,5 +1,5 @@
 # LatoSwift
-Use Lato font in your UIKit/SwiftUI projects
+Use [Lato](https://fonts.google.com/specimen/Lato) font in your UIKit/SwiftUI projects
 
 ## Usage
 ### for UIKit
