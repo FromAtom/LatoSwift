@@ -43,4 +43,4 @@ struct ContentView: View {
 ### License tips
 If you publish an application that uses this library, you must notate the Lato font license (SIL Open Font License) and the LatoSwift license (MIT).
 
-If you are using [LicensePlist](https://github.com/mono0926/LicensePlist), only the LatoSwift license will be processed, so please add the Lato font license manually using `license_plist.yml`.
+In addition, if you are using [LicensePlist](https://github.com/mono0926/LicensePlist), only the LatoSwift license will be processed, so please add the Lato font license manually using `license_plist.yml`.
