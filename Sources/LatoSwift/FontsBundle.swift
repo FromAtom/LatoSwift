@@ -1,7 +1,4 @@
 //
-//  File.swift
-//  
-//
 //  Created by FromAtom on 2022/01/05.
 //
 
